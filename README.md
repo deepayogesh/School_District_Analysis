@@ -1,7 +1,7 @@
 # School_District_Analysis
 
 ## The school district analysis:
-### 1.	Overview of the school district analysis: School board ask us to confirm Thomas high school ninth grade reading and math results are not altered? And affects the summary results. 
+### 1.	Overview of the school district analysis: School board ask us to confirm Thomas high school ninth grade reading and math results are not altered? And anyfindings on the result of spending on school type.  
 ### 2.	Results: Using data for all schools math and reading scores I found some average and percentage results on math and reading scores for the Thomas high school and all schools. 
       o	District summary of the school does not show any difference on making the math and reading scores for Thomas 9th grade to Nan value. 
       o	School summary shows the minimal reduction in reading and math score,
